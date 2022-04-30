@@ -1,0 +1,10 @@
+Dog
+Cat
+Rabbit
+Fish
+Snake
+Lizard
+Chicken
+Ferret
+Bird
+Frog
